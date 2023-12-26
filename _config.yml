@@ -1,22 +1,22 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
-description: 
-disqus_forum_shortname:
+title: 4lv4r0t's Blog
+author: Alvaro Torres
+description: Blog personal
+disqus_forum_shortname: 4lv4r0t
 google_site_verification_content: # The 'content' tag for site verification
 google_analytics: # Your Google Analytics Tracking ID
 
 # Usernames and badges
-htb_badge_no: # Go to the HackTheBox site and copy your ID
-thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
-show_thm_htb_badges_in_nav: false
-github_username: 
+htb_badge_no: 1448981 # Go to the HackTheBox site and copy your ID
+thm_badge_no: 1871792 # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
+show_thm_htb_badges_in_nav: true
+github_username: 4lv4r0t
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
-linkedin:
+linkedin: https://www.linkedin.com/in/alvaro-torres-b4ba79265/
 twitch:
 youtube:
 twitter: 
