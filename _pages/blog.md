@@ -1,3 +1,3 @@
 ---
-layout: ctf_toplevel
+layout: default
 ---
