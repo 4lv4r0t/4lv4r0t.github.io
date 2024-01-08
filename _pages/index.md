@@ -19,9 +19,37 @@ Me considero una persona competitiva, retarme a mi mismo es la forma en que me g
   class="command-line" 
   data-prompt="www-data@4lv4r0t $" 
   data-output="4"
-><code class="language-bash">echo 'Poseo conocimientos en:'; cat portafolio/aptitudes/*</code>
+><code class="language-bash">echo 'Poseo conocimientos en:';cd !$; cat portafolio/aptitudes/*; echo 'Manejo de herramientas:'; ls portafolio/Herramientas/*</code>
 </pre>
 Poseo conocimientos en:
-- Programación: Python, javascript, C++
-- Sistemas Unix y uso de bash
-- Pentesting: Full pwn
+- **Programación:** Python, javascript, C++
+- **Sistemas Unix:** Conocimiento de entornos Unix y uso de la bash
+- **Pentesting:** Full pwn, Web, Privilege escalation, Reconocimiento, Análisis de vulnerabilidades
+- **Idiomas:** Inglés (nivel B2)
+- **Otros:** Virtualización
+
+
+Manejo de herramientas:
+ - **Ciberseguridad**: Nmap, Burpsuite, Wfuzz, Metasploit, John The Ripper, Ghidra, Wireshark
+
+
+## Experiencia
+
+<pre 
+  class="command-line" 
+  data-prompt="www-data@4lv4r0t $" 
+  data-output="4"
+><code class="language-bash">cat portafolio/experiencia.txt</code>
+</pre>
+* Estudios de ingeniería de sistemas en la UNAL
+* Miembro activo del grupo estudiantil de ciberseguridad [Uqbar](https://uqbarun.github.io/)
+* Jugador activo de CTFs en plataformas como [Hack The Box](https://www.hackthebox.com/) y [Try Hack Me](https://tryhackme.com/)
+* Asistente de eventos de ciberseguridad a nivel nacional
+* Ex-estudiante de la escuela de bilingũismo [Centro Colombo Americano](https://www.colombobogota.edu.co/)
+* Cursos de Introducción al Hacking e Introducción a Linux de la plataforma [Hack4u](https://hack4u.io/)
+
+## Contáctame
+
+***Email:*** [alvtorresro@unal.edu.co](mailto:alvtorresro@unal.edu.co)
+
+***Linkedin:*** [Enlace a mi perfil](https://linkedin.com/in/alvaro-torres-b4ba79265/)
