@@ -19,7 +19,7 @@ Me considero una persona competitiva, retarme a mi mismo es la forma en que me g
   class="command-line" 
   data-prompt="www-data@4lv4r0t $" 
   data-output="4"
-><code class="language-bash">echo 'Poseo conocimientos en:';cd !$; cat portafolio/aptitudes/*; echo 'Manejo de herramientas:'; ls portafolio/Herramientas/*</code>
+><code class="language-bash">echo 'Poseo conocimientos en:'; cd !$; cat portafolio/aptitudes/*; echo 'Manejo de herramientas:'; ls portafolio/Herramientas/*</code>
 </pre>
 Poseo conocimientos en:
 - **Programación:** Python, javascript, C++
