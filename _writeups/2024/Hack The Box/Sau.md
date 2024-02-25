@@ -1,6 +1,6 @@
 ---
 layout: writeup
-category: Hack the box
+category: Hack The Box
 chall_description: https://app.hackthebox.com/machines/551
 points: 20
 solves: 16739
