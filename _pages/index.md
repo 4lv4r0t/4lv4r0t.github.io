@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S618G2X3MK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-S618G2X3MK');
-</script>
 > Estudiante de ingeniería de sistemas,  pentester aficionado, y amante del aprendizaje.
 
 ## Acerca de mi
