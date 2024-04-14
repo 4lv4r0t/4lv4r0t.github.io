@@ -1,10 +1,10 @@
 ---
 layout: writeup
 category: Hack The Box
-chall_description: https://app.hackthebox.com/starting-point?tier=1
+chall_description: ../../../assets/CTFs/Ignition/Ignition_Writeup.png
 points: 0
 solves: 0
-tags: HTB Web Password_Spraying Starting_Point
+tags: HTB Very_Easy Web Weak_Credentials Starting_Point
 date: 2024-03-27
 comments: true
 ---
@@ -14,6 +14,11 @@ comments: true
 **Dificultad**: Very Easy
 
 **Temas a tratar:** Virual hosting, Fuzzing, Weak Credentials
+
+<p align="center">
+    <img src="../../../assets/CTFs/Ignition/Ignition_Writeup.png" alt="1" width="1000%" height="auto">
+</p>
+
 
 ### Reconocimiento:
 
