@@ -12,7 +12,7 @@ comments: true
 
 **Dificultad**: Easy
 
-**Temas a tratar:** FTP_Anon Credentials_Leak Password_Spraying WiFi WPS Bruteforce
+**Temas a tratar:** FTP_Anon, Credentials_Leak, Password_Spraying, WiFi, WPS y Bruteforce
 
 
 <p align="center">

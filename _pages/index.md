@@ -29,7 +29,7 @@ Poseo conocimientos en:
 
 
 Manejo de herramientas:
- - **Ciberseguridad**: Nmap, Burpsuite, Wfuzz, Metasploit, John The Ripper, Ghidra, Wireshark
+ - **Ciberseguridad**: Nmap, Metasploit, Burpsuite, Wfuzz, John The Ripper, Ghidra, Wireshark
 
 
 ## Experiencia
