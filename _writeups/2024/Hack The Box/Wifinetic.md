@@ -4,7 +4,7 @@ category: Hack The Box
 chall_description: ../../../assets/CTFs/Wifinetic/Wifinetic_Thumbnail.png
 points: 20
 solves: 3448
-tags: HTB Easy FTP_Anon Password_Spraying WiFi WPS Bruteforce
+tags: HTB Linux Easy FTP_Anon Password_Spraying WiFi WPS Bruteforce
 date: 2024-04-14
 comments: true
 ---

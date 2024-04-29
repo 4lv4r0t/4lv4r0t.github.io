@@ -1,36 +1,87 @@
 ---
 layout: default
 ---
-> Estudiante de ingeniería de sistemas,  pentester aficionado, y amante del aprendizaje.
+> ***Estudiante de ingeniería de sistemas,  pentester aficionado, y amante del aprendizaje.***
 
-## Acerca de mi
+
+# Últimos posts
+
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2">
+  <div style="flex: 3; margin: 10px;">
+    <h2> 
+      <a href="writeups/2024/Hack%20The%20Box/Shocker.html">Shocker Writeup</a>
+    </h2>
+    <p>
+    <strong>Shocker</strong> es una máquina <strong>Linux</strong> de dificultad <strong>fácil</strong> que cubre las temáticas de Web, Fuzzing, ataque Shellshock y abuso de permisos de sudoers. La máquina nos enseña en parte la importancia de saber enumerar una web correctamente, y...
+    </p>
+  </div>
+  <div style="flex: 2; display: flex; align-items: center; justify-content: center;">
+    <a href="writeups/2024/Hack%20The%20Box/Shocker.html">
+      <img src="/assets/CTFs/Shocker/Shocker_Thumbnail.png" alt="1" style="width: 95%; height: auto;">
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2;">
+  <div style="flex: 3; margin: 10px;">
+    <h2>
+      <a href="writeups/2024/Hack%20The%20Box/Wifinetic.html">Wifinetic Writeup</a>
+    </h2>
+    <p>
+    <strong>Wifinetic</strong> es una máquina <strong>Linux</strong> de dificultad <strong>fácil</strong> que cubre las temáticas de FTP Anonymous Login, Información filtrada, reciclaje de contraseñas, <strong>redes WiFi</strong> y ataques a WPS. A nivel general, la máquina te enseña a...
+    </p>
+  </div>
+  <div style="flex: 2; display: flex; align-items: center; justify-content: center;">
+    <a href="writeups/2024/Hack%20The%20Box/Wifinetic.html">
+      <img src="/assets/CTFs/Wifinetic/Wifinetic_Thumbnail.png" alt="3" 
+    style="width: 95%; height: auto;">
+    </a>
+  </div>
+</div>
+
+<br>
+
+# Acerca de mi
 <pre 
   class="command-line" 
   data-prompt="www-data@4lv4r0t $" 
   data-output="4"
 ><code class="language-bash">cat /home/4lv4r0t/about_me.txt</code>
 </pre>
+<br>
 ¡Bienvenidos a mi página web! Soy Alvaro Torres y actualmente estudio ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona la ciberseguridad, en especial el campo del pentesting donde siempre se está constantemente aprendiendo algo nuevo.
 Me considero una persona competitiva, retarme a mi mismo es la forma en que me gusta aprender, y cuando me apasiona algo siempre trato de dar lo mejor de mi.
 
+<br>
+
+- *Puedes conocer más sobre mi aquí*: [Whoami](blog/2024/Whoami.html)
+
+<br>
+
 ## Aptitudes
+
 <pre 
   class="command-line" 
   data-prompt="www-data@4lv4r0t $" 
   data-output="4"
 ><code class="language-bash">cd /home/4lv4r0t; echo 'Poseo conocimientos en:'; cat portafolio/aptitudes/*; echo 'Manejo de herramientas:'; ls portafolio/Herramientas/*</code>
 </pre>
+<br>
+
 Poseo conocimientos en:
-- **Programación:** Python, javascript, C++
+- **Programación:** Python, Bash scripting, javascript, C++
 - **Sistemas Unix:** Conocimiento de entornos Unix y uso de la bash
 - **Pentesting:** Web, Privilege escalation, Reconocimiento, Análisis de vulnerabilidades
 - **Idiomas:** Inglés (nivel B2)
-- **Otros:** Virtualización
+- **Otros:** Piano, guitarra y dibujo
 
 
-Manejo de herramientas:
+Manejo de herramientas y frameworks como:
  - **Ciberseguridad**: Nmap, Metasploit, Burpsuite, Wfuzz, John The Ripper, Ghidra, Wireshark
 
+<br>
 
 ## Experiencia
 
@@ -40,15 +91,23 @@ Manejo de herramientas:
   data-output="4"
 ><code class="language-bash">cat portafolio/experiencia.txt</code>
 </pre>
+<br>
+
 * Estudios de ingeniería de sistemas en la UNAL
+* Hack The Box Meetup organizer, Universidad Nacional de Colombia
 * Miembro activo del grupo estudiantil de ciberseguridad [Uqbar](https://uqbarun.github.io/)
 * Jugador activo de CTFs en plataformas como [Hack The Box](https://www.hackthebox.com/) y [Try Hack Me](https://tryhackme.com/)
 * Asistente de eventos de ciberseguridad a nivel nacional
 * Egresado de la escuela de bilingũismo [Centro Colombo Americano](https://www.colombobogota.edu.co/)
 * Cursos de Introducción al Hacking e Introducción a Linux de la plataforma [Hack4u](https://hack4u.io/)
+* Creación de contenido educativo digital de ciberseguridad en la plataforma [Youtube](https://www.youtube.com/@UqbarUN)
+
+<br>
+
+------ 
 
 ## Contáctame
 
 ***Email:*** [alvtorresro@unal.edu.co](mailto:alvtorresro@unal.edu.co)
 
-***Linkedin:*** [Enlace a mi perfil](https://linkedin.com/in/alvaro-torres-b4ba79265/)
+***Linkedin:*** [Mi perfil](https://linkedin.com/in/alvaro-torres-b4ba79265/)

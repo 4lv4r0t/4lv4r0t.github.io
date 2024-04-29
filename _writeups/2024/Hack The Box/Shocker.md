@@ -4,7 +4,7 @@ category: Hack The Box
 chall_description: ../../../assets/CTFs/Shocker/Shocker_Thumbnail.png
 points: 20
 solves: 23918
-tags: Web Fuzzing Shellshock Sudoers
+tags: Web Linux Fuzzing Shellshock Sudoers
 date: 2024-04-28
 comments: true
 ---

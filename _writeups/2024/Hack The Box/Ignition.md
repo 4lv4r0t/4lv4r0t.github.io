@@ -4,7 +4,7 @@ category: Hack The Box
 chall_description: ../../../assets/CTFs/Ignition/Ignition_Writeup.png
 points: 0
 solves: 0
-tags: HTB Very_Easy Web Weak_Credentials Starting_Point
+tags: HTB Linux Very_Easy Web Weak_Credentials Starting_Point
 date: 2024-03-27
 comments: true
 ---
