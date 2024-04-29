@@ -6,7 +6,7 @@ layout: default
 
 # Últimos posts
 
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2">
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1A2022">
   <div style="flex: 3; margin: 10px;">
     <h2> 
       <a href="writeups/2024/Hack%20The%20Box/Shocker.html">Shocker Writeup</a>
@@ -24,7 +24,7 @@ layout: default
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2;">
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1A2022;">
   <div style="flex: 3; margin: 10px;">
     <h2>
       <a href="writeups/2024/Hack%20The%20Box/Wifinetic.html">Wifinetic Writeup</a>
