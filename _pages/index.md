@@ -60,6 +60,30 @@ Me considero una persona competitiva, retarme a mi mismo es la forma en que me g
 
 <br>
 
+
+## Experiencia
+
+<pre 
+  class="command-line" 
+  data-prompt="www-data@4lv4r0t $" 
+  data-output="4"
+><code class="language-bash">cat portafolio/experiencia.txt</code>
+</pre>
+<br>
+
+* Estudiante de ingeniería de sistemas en la UNAL
+* Certificación **[eJPT](https://certs.ine.com/07ff33a4-0ebb-420a-9dcd-29a7a044ca72#gs.azp4qv)** (Junior Pentester)
+* Hack The Box Meetup organizer, Universidad Nacional de Colombia
+* Miembro activo del grupo estudiantil de ciberseguridad [Uqbar](https://uqbarun.github.io/)
+* Jugador activo de CTFs en plataformas como [Hack The Box](https://www.hackthebox.com/) y [Try Hack Me](https://tryhackme.com/)
+* Asistente de eventos de ciberseguridad a nivel nacional
+* Egresado de la escuela de bilingũismo [Centro Colombo Americano](https://www.colombobogota.edu.co/)
+* Cursos de Introducción al Hacking e Introducción a Linux de la plataforma [Hack4u](https://hack4u.io/)
+* Creación de contenido educativo digital de ciberseguridad en la plataforma [Youtube](https://www.youtube.com/@UqbarUN)
+
+<br>
+
+
 ## Aptitudes
 
 <pre 
@@ -80,27 +104,6 @@ Poseo conocimientos en:
 
 Manejo de herramientas y frameworks como:
  - **Ciberseguridad**: Nmap, Metasploit, Burpsuite, Wfuzz, John The Ripper, Ghidra, Wireshark
-
-<br>
-
-## Experiencia
-
-<pre 
-  class="command-line" 
-  data-prompt="www-data@4lv4r0t $" 
-  data-output="4"
-><code class="language-bash">cat portafolio/experiencia.txt</code>
-</pre>
-<br>
-
-* Estudios de ingeniería de sistemas en la UNAL
-* Hack The Box Meetup organizer, Universidad Nacional de Colombia
-* Miembro activo del grupo estudiantil de ciberseguridad [Uqbar](https://uqbarun.github.io/)
-* Jugador activo de CTFs en plataformas como [Hack The Box](https://www.hackthebox.com/) y [Try Hack Me](https://tryhackme.com/)
-* Asistente de eventos de ciberseguridad a nivel nacional
-* Egresado de la escuela de bilingũismo [Centro Colombo Americano](https://www.colombobogota.edu.co/)
-* Cursos de Introducción al Hacking e Introducción a Linux de la plataforma [Hack4u](https://hack4u.io/)
-* Creación de contenido educativo digital de ciberseguridad en la plataforma [Youtube](https://www.youtube.com/@UqbarUN)
 
 <br>
 
