@@ -6,6 +6,25 @@ layout: default
 
 # Últimos posts
 
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1A2022;">
+  <div style="flex: 3; margin: 10px;">
+    <h2>
+      <a href="blog/2024/eJPT Reseña.html">eJPT Reseña</a>
+    </h2>
+    <p>
+    En esta entrada de blog contaré mi experiencia con la certificación <strong>eJPT</strong>, cómo fue mi preparación para el examen y una <strong>reseña</strong> de la certificación.
+    </p>
+  </div>
+  <div style="flex: 2; display: flex; align-items: center; justify-content: center;">
+    <a href="blog/2024/eJPT Reseña.html">
+      <img src="/assets/Blog/eJPT/eJPTbadge.png" alt="3" 
+    style="width: 65%; height: auto;">
+    </a>
+  </div>
+</div>
+
+<br>
+
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #1A2022">
   <div style="flex: 3; margin: 10px;">
     <h2> 
@@ -24,24 +43,6 @@ layout: default
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1A2022;">
-  <div style="flex: 3; margin: 10px;">
-    <h2>
-      <a href="writeups/2024/Hack%20The%20Box/Wifinetic.html">Wifinetic Writeup</a>
-    </h2>
-    <p>
-    <strong>Wifinetic</strong> es una máquina <strong>Linux</strong> de dificultad <strong>fácil</strong> que cubre las temáticas de FTP Anonymous Login, Información filtrada, reciclaje de contraseñas, <strong>redes WiFi</strong> y ataques a WPS. A nivel general, la máquina te enseña a...
-    </p>
-  </div>
-  <div style="flex: 2; display: flex; align-items: center; justify-content: center;">
-    <a href="writeups/2024/Hack%20The%20Box/Wifinetic.html">
-      <img src="/assets/CTFs/Wifinetic/Wifinetic_Thumbnail.png" alt="3" 
-    style="width: 95%; height: auto;">
-    </a>
-  </div>
-</div>
-
-<br>
 
 # Acerca de mi
 <pre 
