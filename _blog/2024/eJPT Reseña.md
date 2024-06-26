@@ -67,7 +67,7 @@ Yo pasé el **[examen](https://certs.ine.com/07ff33a4-0ebb-420a-9dcd-29a7a044ca7
     <img src="../../assets/Blog/eJPT/think.png" alt="5" width="30%" height="auto">
 </p>
 
-Escogí esta certificación, no pora conseguir empleo rápidamente, sino para **construir unas buenas bases** en ciberseguridad y empezar a hacer un **portafolio** de seguridad. Hay que tener en cuenta que hasta ahora tengo **18 años** y voy en segundo año de universidad, por lo que **no tengo prisa** en conseguir empleo, pero si en aprender y construir un buen portafolio que me ayude a conseguir empleo en el futuro. Encontré la eJPT como la mejor certificación introductoria por sus contenidos y reconocimiento en el sector
+Escogí esta certificación, no para conseguir empleo rápidamente, sino para **construir unas buenas bases** en ciberseguridad y empezar a hacer un **portafolio** de seguridad. Hay que tener en cuenta que hasta ahora tengo **18 años** y voy en segundo año de universidad, por lo que **no tengo prisa** en conseguir empleo, pero sí en aprender y construir un buen portafolio que me ayude a conseguir empleo en el futuro. Encontré la eJPT como la mejor certificación introductoria por sus contenidos y reconocimiento en el sector.
 
 Al final encontré en la eJPT **lo que buscaba**, revisitar las bases de ciberseguridad y construir mejores cimientos, así como probarme a mi mismo para ver si estaba listo para el mundo laboral, y aunque no es una certificación muy difícil, si es un buen reto para alguien que recién empieza en el campo.
 
