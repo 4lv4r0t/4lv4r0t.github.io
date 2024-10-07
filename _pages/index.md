@@ -74,9 +74,10 @@ Me considero una persona competitiva, retarme a mi mismo es la forma en que me g
 
 * Estudiante de ingeniería de sistemas en la UNAL
 * Certificación **[eJPT](https://certs.ine.com/07ff33a4-0ebb-420a-9dcd-29a7a044ca72#gs.azp4qv)** (Junior Pentester)
-* Hack The Box Meetup organizer, Universidad Nacional de Colombia
-* Miembro activo del grupo estudiantil de ciberseguridad [Uqbar](https://uqbarun.github.io/)
+* **Embajador de Hack The Box** (Ambassador), [Universidad Nacional de Colombia](https://www.meetup.com/hack-the-box-meetups-for-universities-uqbar-unal/)
+* Miembro activo del grupo estudiantil de ciberseguridad **[Uqbar](https://uqbarun.github.io/)**
 * Jugador activo de CTFs en plataformas como [Hack The Box](https://www.hackthebox.com/) y [Try Hack Me](https://tryhackme.com/)
+* Certificación **[ICCA](https://certs.ine.com/2fba6457-ee55-42e0-8e1d-970fc62ad201#gs.cgd6wa)**
 * Asistente de eventos de ciberseguridad a nivel nacional
 * Egresado de la escuela de bilingũismo [Centro Colombo Americano](https://www.colombobogota.edu.co/)
 * Cursos de Introducción al Hacking e Introducción a Linux de la plataforma [Hack4u](https://hack4u.io/)
@@ -99,6 +100,7 @@ Poseo conocimientos en:
 - **Programación:** Python, Bash scripting, javascript, C++
 - **Sistemas Unix:** Conocimiento de entornos Unix y uso de la bash
 - **Pentesting:** Web, Privilege escalation, Reconocimiento, Análisis de vulnerabilidades
+- **Cloud:** Conocimientos base en AWS, Azure y GCP, seguridad y computación en la nubeRR
 - **Idiomas:** Inglés (nivel B2)
 - **Otros:** Piano, guitarra y dibujo
 
@@ -114,4 +116,4 @@ Manejo de herramientas y frameworks como:
 
 ***Email:*** [alvtorresro@unal.edu.co](mailto:alvtorresro@unal.edu.co)
 
-***Linkedin:*** [Mi perfil](https://linkedin.com/in/alvaro-torres-b4ba79265/)
+***Linkedin:*** [Mi perfil](https://www.linkedin.com/in/4lv4r0t/)
