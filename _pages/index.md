@@ -97,10 +97,10 @@ Me considero una persona competitiva, retarme a mi mismo es la forma en que me g
 <br>
 
 Poseo conocimientos en:
-- **Programación:** Python, Bash scripting, javascript, C++
+- **Programación:** Python, Bash scripting, Golang, C++
 - **Sistemas Unix:** Conocimiento de entornos Unix y uso de la bash
 - **Pentesting:** Web, Privilege escalation, Reconocimiento, Análisis de vulnerabilidades
-- **Cloud:** Conocimientos base en AWS, Azure y GCP, seguridad y computación en la nubeRR
+- **Cloud:** Conocimientos base en tecnología Cloud, seguridad y computación en la nube
 - **Idiomas:** Inglés (nivel B2)
 - **Otros:** Piano, guitarra y dibujo
 
